@@ -4,7 +4,7 @@
 
 # Hi there, I'm Phuc 👋
 
-### 👨‍💻 About Me
+### 👤 About Me
 
 - 👨‍💻 I'm a **Final-year IT Student**
 - 🌱 I'm continuously learning **modern development frameworks and tools**
