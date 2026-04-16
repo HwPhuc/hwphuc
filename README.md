@@ -6,7 +6,7 @@
 
 ### 👤 About Me
 
-- 👨‍💻 I'm a **Final-year IT Student**
+- 👨‍💻 I'm a **Final-year IT Student @ HCMOU**
 - 🌱 I'm continuously learning **modern development frameworks and tools**
 - 👯 I'm looking to collaborate on **exciting open-source projects**
 - 💬 Ask me about **web development, software architecture, and engineering practices**
